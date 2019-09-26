@@ -6,3 +6,4 @@
 * 内存管理机制：<https://github.com/Animenzzzz/Study/wiki/内存管理机制>
 * C指针运算：<https://github.com/Animenzzzz/Study/wiki/C指针运算>
 * CALayer：<https://github.com/Animenzzzz/Study/wiki/CALayer>
+* Catagory／Extension：<https://github.com/Animenzzzz/Study/wiki/Catagory／Extension>
