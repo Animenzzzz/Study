@@ -8,3 +8,4 @@
 * CALayer：<https://github.com/Animenzzzz/Study/wiki/CALayer>
 * Catagory／Extension：<https://github.com/Animenzzzz/Study/wiki/Catagory／Extension>
 * Clang：<https://github.com/Animenzzzz/Study/wiki/Clang>
+* Dealloc：<https://github.com/Animenzzzz/Study/wiki/Dealloc>
