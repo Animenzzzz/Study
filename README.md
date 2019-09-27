@@ -10,3 +10,4 @@
 * Clang：<https://github.com/Animenzzzz/Study/wiki/Clang>
 * Dealloc：<https://github.com/Animenzzzz/Study/wiki/Dealloc>
 * GCD：<https://github.com/Animenzzzz/Study/wiki/GCD>
+* KVC／KVO Delege和通知：<https://github.com/Animenzzzz/Study/wiki/KVC／KVO Delege和通知>
